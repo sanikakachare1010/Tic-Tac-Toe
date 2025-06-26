@@ -1,18 +1,30 @@
-## Getting Started
+# 🎮 Tic-Tac-Toe Game in Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple GUI-based Tic-Tac-Toe game built using **Java Swing**. This project demonstrates GUI design, object-oriented principles, and event-driven programming.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🚀 Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- 🟩 3x3 Grid Game Board  
+- 🎯 Real-time Move Handling  
+- 🧠 Win & Draw Detection Logic  
+- 🌈 Highlight Winning Combination  
+- 🎮 User-Friendly GUI using Java Swing
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠️ Technologies Used
 
-## Dependency Management
+- Java (JDK 8+)
+- Java Swing for GUI
+- Object-Oriented Programming
+- Event Handling
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🔧 How to Run
+
+```bash
+javac TicTacToe.java
+java TicTacToe
